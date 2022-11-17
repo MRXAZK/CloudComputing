@@ -1,0 +1,4 @@
+Terraform/EC2/.terraform.lock.hcl
+Terraform/EC2/terraform.tfstate.backup
+Terraform/EC2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.39.0/linux_amd64/terraform-provider-aws_v4.39.0_x5
+Terraform/EC2/terraform.tfstate
