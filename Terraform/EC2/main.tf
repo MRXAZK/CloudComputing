@@ -31,7 +31,7 @@ resource "aws_security_group" "allow_ssh" {
   }
 }
 
-resource "aws_instance" "myweb" {
+resource "aws_instance" "MRXAZK-EC2" {
   ami           = "ami-0e763a959ec839f5e"
   instance_type = "t2.micro"
   
